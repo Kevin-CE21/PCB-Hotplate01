@@ -2,7 +2,7 @@
 ## PCB Layout:
 ![PCB](Layout.png)
 ## Schematic: 
-![Schematic](SHC.png)
+![Schematic](SCH.png)
 ## 3D Model:
 ![3D Modle](3d.png)
 ## Overview
