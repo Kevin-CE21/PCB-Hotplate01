@@ -1,8 +1,9 @@
 # PCB Hotplate Project (KiCad)
 ## PCB Layout:
-![Schematic](image2.png)
+![3D Modle](3d.png)
+![Schematic](SHC.png)
 ## Schematic: 
-![PCB](image1.png)
+![PCB](Layout.png)
 ## Overview
 
 This project is a PCB hotplate designed using KiCad.
