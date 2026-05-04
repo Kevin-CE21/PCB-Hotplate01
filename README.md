@@ -1,8 +1,8 @@
 # PCB Hotplate Project (KiCad)
 ## PCB Layout:
-![Schematic](SHC.png)
-## Schematic: 
 ![PCB](Layout.png)
+## Schematic: 
+![Schematic](SHC.png)
 ## 3D Model:
 ![3D Modle](3d.png)
 ## Overview
