@@ -7,12 +7,7 @@
 ![3D Modle](3d.png)
 ## Overview
 
-This project is a PCB hotplate designed using KiCad.
-
-The board controls a heating element and maintains temperature using a simple control system.
-It was designed for small electronics tasks such as soldering and component heating.
-
-The focus was PCB layout, power handling, and thermal considerations.
+This project is a custom-designed PCB hotplate for reflow soldering, built around an Arduino Nano. The board reads real-time temperature via an analog LMT85 sensor and displays live readings on an I2C OLED screen, with two push-buttons for user control. Heating elements are switched using a low-side IRFB7545 power MOSFET, driven through a PN2222A transistor for proper gate-level switching, with Schottky diode protection and bulk capacitance across the power rail to maintain stability during high-current switching events. The design required balancing power delivery, thermal considerations, and signal integrity across analog sensing, digital control, and high-current switching sections on a single board.
 
 ## Objectives
 
